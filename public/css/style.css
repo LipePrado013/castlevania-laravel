@@ -1,26 +1,67 @@
 body {
-  background-color: black;
+  background: url("/img/body.jpg");
+  font-family: Arial, Helvetica, sans-serif;
 }
-
 
 .ifundo {
   background: url("../img/banner.jpg");
-}
-
-.esquerda {
-  position: relative;
-  left: 30vw;
+  box-shadow: rgba(0, 0, 0, 0.582) 0px 5px 15px;
 }
 
 .nave>li>a {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin-left: 15px;
   padding: 10px;
   border-radius: 15px;
+  background: #B50000;
+  color: #360000;
+  font-size: 20px;
+
+}
+
+.imgc2 {
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  background: #360000;
+}
+
+.imgc2>p {
+  color: white;
+}
+
+.nave>li>a:hover {
+  color: white;
+  background: #750000;
+
 }
 
 .margin {
   margin-top: 20px;
+}
+
+.conteudo2 {
+  background: #750000;
+
+}
+
+.quadro {
+  background: black;
+}
+
+.quadro1 {
+  background: rgba(0, 0, 0, 0.514);
+  width: 100%;
+}
+
+.linkc2>a {
+  background: blue;
+}
+
+.textodonto {
+  text-align: center;
+}
+
+.rodape {
+  background: #380200;
 }
 
 /* .navegacao > ul > li{
