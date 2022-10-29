@@ -17,6 +17,6 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-Route::get('/castlevania2', function () {
+Route::get('/', function () {
     return view('castlevania');
 });
