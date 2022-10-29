@@ -1,0 +1,16 @@
+.ifundo {
+  background: url("../img/banner.jpg");
+}
+
+.esquerda {
+  text-align: right;
+}
+
+/* .navegacao > ul > li{
+ list-style: none;
+ display: inline-block;
+ margin: 20px;
+ right: -15vw;
+ position: relative;
+
+} */
