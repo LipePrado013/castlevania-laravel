@@ -1,9 +1,26 @@
+body {
+  background-color: black;
+}
+
+
 .ifundo {
   background: url("../img/banner.jpg");
 }
 
 .esquerda {
-  text-align: right;
+  position: relative;
+  left: 30vw;
+}
+
+.nave>li>a {
+  border: 1px solid red;
+  margin-left: 15px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.margin {
+  margin-top: 20px;
 }
 
 /* .navegacao > ul > li{

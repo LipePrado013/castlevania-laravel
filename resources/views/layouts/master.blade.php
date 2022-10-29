@@ -5,10 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
     <!-- css bootstrap -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>Castlevania</title>
 </head>
 
@@ -17,7 +16,7 @@
     <div class="container-fluid">
         <!-- inicio container -->
         <!-- nav -->
-        <nav class='navbar navbar-expand-md navbar-dark bg-dark ifundo'>
+        <nav class='navbar navbar-expand-lg navbar-dark bg-dark ifundo'>
 
             <div class="">
                 <a href="/">
@@ -30,9 +29,9 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <!--  -->
-            <div class="collapse navbar-collapse border" id="nav-target">
-                <ul class='nav border esquerda'>
-                    <li class='nav-item'>
+            <div class="collapse navbar-collapse " id="nav-target">
+                <ul class='nav  esquerda nave'>
+                    <li class='nav-item '>
                         <a class='nav-link' href="/">Inicio</a>
                     </li>
                     <li class='nav-item'>
@@ -48,6 +47,8 @@
         @yield('content')
 
     </div> <!-- fim container -->
+
+
 
     <!-- js bootstrap -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
