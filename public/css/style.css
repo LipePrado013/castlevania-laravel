@@ -22,10 +22,28 @@ body {
 .imgc2 {
   box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
   background: #360000;
+  height: 82vh;
 }
 
 .imgc2>p {
   color: white;
+}
+
+.imgc2>a {
+  color: white;
+  background: #750000;
+  margin: 3px;
+  padding: 5px;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.imgc2>a:hover {
+  color: rgb(185, 185, 185);
+  background: #750000;
+  padding: 7px;
+  border-radius: 10px;
+
 }
 
 .nave>li>a:hover {
@@ -62,7 +80,12 @@ body {
 
 .rodape {
   background: #380200;
+  height: 10vh;
+  /* text-align: center; */
+
 }
+
+.rodape>i {}
 
 /* .navegacao > ul > li{
  list-style: none;

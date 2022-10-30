@@ -53,7 +53,9 @@
   {{-- rodape --}}
 
   <footer class="rodape">
-
+    <div class="col border">
+      <strong>Felipe Prado</strong> <i>30/10/2022</i>
+    </div>
   </footer>
 
   <!-- js bootstrap -->

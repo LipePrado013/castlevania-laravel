@@ -59,18 +59,27 @@
       <img class="mt-2" width="100%" src="img/conteudo2.jpg">
       <br><br>
       <p>
-        texto
+        Originalmente um humano chamado Mathias Cronqvist, Drácula caiu na loucura após a morte de sua primeira esposa e
+        se tornou um vampiro imortal graças aos poderes da Pedra Carmesim. Com seus poderes sombrios, ele construiu um
+        exército de criaturas e sua fortaleza, Castlevania.
       </p>
-      <a href="">link</a>
+      <a href="">leia mais ...</a>
     </div>
 
     <div class="col-md-4 mt-2 mb-2  ml-2 mr-2 imgc2">
       <img class="mt-2" width="100%" src="img/conteudo3.jpg">
       <br><br>
       <p>
-        texto
+        Hector teve uma infância difícil. Ele nasceu filho de um alquimista. Desde cedo, ele descobriu que os animais
+        gravitavam em sua direção, tanto animais de dia como animais de noite.
       </p>
-      <a href="">link</a>
+      <p>
+        Isaac e Hector eram dois dos maiores generais do Conde Drácula, pois eram os únicos dois humanos capazes de fazer
+        a forja demoníaca que criava demônios inocentes.
+      </p>
+      <a href="https://castlevania.fandom.com/pt-br/wiki/Isaac">Lei mais sobre o Isaac</a>
+
+      <a href="https://castlevania.fandom.com/pt-br/wiki/Hector">Lei mais sobre o Hector</a>
     </div>
     <div class="col-md-2 mt-2 mb-2 d-none d-md-block bg-light">
 
