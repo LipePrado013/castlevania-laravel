@@ -86,16 +86,16 @@ body {
 
 .rodape {
   width: 100%;
-  border: 1px solid white;
+
   background: #750000;
 }
 
 .meurodape {
-  border: 1px solid paleturquoise;
   width: 40vw;
-  margin: 5px auto;
+  margin: 0 auto;
   height: 20vh;
   text-align: center;
+  padding: 10px;
 
 }
 
@@ -110,7 +110,8 @@ body {
   color: rgb(3, 114, 114);
 }
 
-.meurodape>p {
+.meurodape>p,
+i {
   font-family: 'fontRodaPe';
   font-size: 20px;
   color: aquamarine;

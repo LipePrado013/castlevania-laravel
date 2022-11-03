@@ -54,7 +54,7 @@
   {{-- rodape --}}
 
   <footer class="rodape">
-    <div class="col border meurodape">
+    <div class="col  meurodape">
       <a href="https://www.instagram.com/fprado2020/">Instagram</a>
 
       <p>02/11/<?php
