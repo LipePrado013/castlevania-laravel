@@ -49,12 +49,21 @@
     @yield('content')
 
   </div> <!-- fim container -->
+  <br>
 
   {{-- rodape --}}
 
   <footer class="rodape">
-    <div class="col border">
-      <strong>Felipe Prado</strong> <i>30/10/2022</i>
+    <div class="col border meurodape">
+      <a href="https://www.instagram.com/fprado2020/">Instagram</a>
+
+      <p>02/11/<?php
+      $hoje = date('Y');
+      echo $hoje;
+      ?>
+      </p>
+
+      <i>Dedicatoria ao professor Renam</i>
     </div>
   </footer>
 

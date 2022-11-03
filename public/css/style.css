@@ -1,6 +1,7 @@
 body {
   background: url("/img/body.jpg");
   font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .ifundo {
@@ -78,14 +79,42 @@ body {
   text-align: center;
 }
 
+@font-face {
+  font-family: 'fontRodaPe';
+  src: url(/public/font/RINGM___.TTF);
+}
+
 .rodape {
-  background: #380200;
-  height: 10vh;
-  /* text-align: center; */
+  width: 100%;
+  border: 1px solid white;
+  background: #750000;
+}
+
+.meurodape {
+  border: 1px solid paleturquoise;
+  width: 40vw;
+  margin: 5px auto;
+  height: 20vh;
+  text-align: center;
 
 }
 
-.rodape>i {}
+.meurodape>a {
+  font-family: 'fontRodaPe';
+  font-size: 20px;
+  color: aquamarine;
+  text-decoration: none;
+}
+
+.meurodape>a:hover {
+  color: rgb(3, 114, 114);
+}
+
+.meurodape>p {
+  font-family: 'fontRodaPe';
+  font-size: 20px;
+  color: aquamarine;
+}
 
 /* .navegacao > ul > li{
  list-style: none;

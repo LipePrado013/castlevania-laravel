@@ -81,8 +81,8 @@
 
       <a href="https://castlevania.fandom.com/pt-br/wiki/Hector">Lei mais sobre o Hector</a>
     </div>
-    <div class="col-md-2 mt-2 mb-2 d-none d-md-block bg-light">
 
+    <div class="col-md-2 mt-2 mb-2 d-none d-md-block bg-light">
       <div class="row justify-content-center ">
         <div class='col-auto  margin'>
           <!-- culuna central -->
